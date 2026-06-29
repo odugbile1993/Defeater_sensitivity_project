@@ -139,7 +139,7 @@ The experiments demonstrate that different evidential perturbations produce diff
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+https://github.com/odugbile1993/Defeater_sensitivity_project
 ```
 
 Install the required packages:
